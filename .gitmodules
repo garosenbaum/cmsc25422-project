@@ -1,3 +1,0 @@
-[submodule "netdiffusion"]
-	path = netdiffusion
-	url = https://github.com/noise-courses/netdiffusion.git
